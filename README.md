@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mrharton1
 - 👀 I’m interested in analytics
-- 🌱 I’m currently learning python
+- 🌱 This repo contains mini projects related to analytics (ML, SQL, viz)
 - 💞️ I’m looking to collaborate on analytics project
 - 📫 How to reach me: send me a message here
 
